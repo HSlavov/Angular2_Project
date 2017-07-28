@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "PS4 Pro",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "price": 799.90,
+        "starRating": 3.2,
+        "imageUrl": "images/PS4.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Gamer Chair",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "gamer chair description",
+        "price": 32.95,
+        "starRating": 4.2,
+        "imageUrl": "images/gameChair.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Gamer Chair",
+        "productCode": "TBX-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Gamer chair description",
+        "price": 1099.95,
+        "starRating": 4.8,
+        "imageUrl": "images/gameChair2.png"
+    },
+    {
+        "productId": 8,
+        "productName": "GTA V",
+        "productCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "PS4 GTA V best game ever!",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "images/gtaV.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Uncharted 4 console game",
+        "productCode": "GMG-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Standard RPG action game, for PS4",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "images/uncharted4.png"
+    }
+]
